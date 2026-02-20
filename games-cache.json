@@ -1,0 +1,3200 @@
+{
+  "generated_at": "2026-02-20T09:12:04",
+  "source": "https://catalogue.smods.ru/",
+  "count": 363,
+  "games": [
+    {
+      "AppId": 220,
+      "Slug": "half-life-2",
+      "Game": "Half-Life 2",
+      "Aliases": [
+        "Half-Life 2",
+        "half-life-2",
+        "half life 2"
+      ]
+    },
+    {
+      "AppId": 550,
+      "Slug": "left-4-dead-2",
+      "Game": "Left 4 Dead 2",
+      "Aliases": [
+        "Left 4 Dead 2",
+        "left-4-dead-2"
+      ]
+    },
+    {
+      "AppId": 620,
+      "Slug": "portal-2",
+      "Game": "Portal 2",
+      "Aliases": [
+        "Portal 2",
+        "portal-2"
+      ]
+    },
+    {
+      "AppId": 730,
+      "Slug": "counter-strike-2",
+      "Game": "Counter-Strike 2",
+      "Aliases": [
+        "Counter-Strike 2",
+        "counter-strike-2",
+        "counter strike 2"
+      ]
+    },
+    {
+      "AppId": 1250,
+      "Slug": "killing-floor",
+      "Game": "Killing Floor",
+      "Aliases": [
+        "Killing Floor",
+        "killing-floor"
+      ]
+    },
+    {
+      "AppId": 1840,
+      "Slug": "source-filmmaker",
+      "Game": "Source Filmmaker",
+      "Aliases": [
+        "Source Filmmaker",
+        "source-filmmaker"
+      ]
+    },
+    {
+      "AppId": 4000,
+      "Slug": "garrys-mod",
+      "Game": "Garry's Mod",
+      "Aliases": [
+        "Garry's Mod",
+        "garrys-mod",
+        "garrys mod"
+      ]
+    },
+    {
+      "AppId": 8930,
+      "Slug": "sid-meiers-civilization-v",
+      "Game": "Sid Meier's Civilization V",
+      "Aliases": [
+        "Sid Meier's Civilization V",
+        "sid-meiers-civilization-v",
+        "sid meiers civilization v"
+      ]
+    },
+    {
+      "AppId": 11480,
+      "Slug": "soldiers-heroes-of-world-war-ii",
+      "Game": "Soldiers: Heroes of World War II",
+      "Aliases": [
+        "Soldiers: Heroes of World War II",
+        "soldiers-heroes-of-world-war-ii",
+        "soldiers heroes of world war ii"
+      ]
+    },
+    {
+      "AppId": 16900,
+      "Slug": "ground-branch",
+      "Game": "GROUND BRANCH",
+      "Aliases": [
+        "GROUND BRANCH",
+        "ground-branch"
+      ]
+    },
+    {
+      "AppId": 24010,
+      "Slug": "train-simulator",
+      "Game": "Train Simulator",
+      "Aliases": [
+        "Train Simulator",
+        "train-simulator"
+      ]
+    },
+    {
+      "AppId": 25000,
+      "Slug": "overgrowth",
+      "Game": "Overgrowth",
+      "Aliases": "Overgrowth"
+    },
+    {
+      "AppId": 32470,
+      "Slug": "star-wars-empire-at-war-gold-pack",
+      "Game": "STAR WARS™ Empire at War: Gold Pack",
+      "Aliases": [
+        "STAR WARS™ Empire at War: Gold Pack",
+        "STAR WARS",
+        "Empire at War: Gold Pack",
+        "star-wars-empire-at-war-gold-pack",
+        "star wars empire at war gold pack"
+      ]
+    },
+    {
+      "AppId": 34330,
+      "Slug": "total-war-shogun-2",
+      "Game": "Total War: SHOGUN 2",
+      "Aliases": [
+        "Total War: SHOGUN 2",
+        "total-war-shogun-2",
+        "total war shogun 2"
+      ]
+    },
+    {
+      "AppId": 41070,
+      "Slug": "serious-sam-3-bfe",
+      "Game": "Serious Sam 3: BFE",
+      "Aliases": [
+        "Serious Sam 3: BFE",
+        "serious-sam-3-bfe",
+        "serious sam 3 bfe"
+      ]
+    },
+    {
+      "AppId": 48700,
+      "Slug": "mount-blade-warband",
+      "Game": "Mount & Blade: Warband",
+      "Aliases": [
+        "Mount & Blade: Warband",
+        "mount-blade-warband",
+        "mount blade warband"
+      ]
+    },
+    {
+      "AppId": 65980,
+      "Slug": "sid-meiers-civilization-beyond-earth",
+      "Game": "Sid Meier's Civilization: Beyond Earth",
+      "Aliases": [
+        "Sid Meier's Civilization: Beyond Earth",
+        "sid-meiers-civilization-beyond-earth",
+        "sid meiers civilization beyond earth"
+      ]
+    },
+    {
+      "AppId": 72850,
+      "Slug": "the-elder-scrolls-v-skyrim",
+      "Game": "The Elder Scrolls V: Skyrim",
+      "Aliases": [
+        "The Elder Scrolls V: Skyrim",
+        "the-elder-scrolls-v-skyrim",
+        "the elder scrolls v skyrim"
+      ]
+    },
+    {
+      "AppId": 73230,
+      "Slug": "majesty-gold-hd",
+      "Game": "Majesty Gold HD",
+      "Aliases": [
+        "Majesty Gold HD",
+        "majesty-gold-hd"
+      ]
+    },
+    {
+      "AppId": 105600,
+      "Slug": "terraria",
+      "Game": "Terraria",
+      "Aliases": "Terraria"
+    },
+    {
+      "AppId": 107410,
+      "Slug": "arma-3",
+      "Game": "Arma 3",
+      "Aliases": [
+        "Arma 3",
+        "arma-3"
+      ]
+    },
+    {
+      "AppId": 108600,
+      "Slug": "project-zomboid",
+      "Game": "Project Zomboid",
+      "Aliases": [
+        "Project Zomboid",
+        "project-zomboid"
+      ]
+    },
+    {
+      "AppId": 200710,
+      "Slug": "torchlight-ii",
+      "Game": "Torchlight II",
+      "Aliases": [
+        "Torchlight II",
+        "torchlight-ii"
+      ]
+    },
+    {
+      "AppId": 203770,
+      "Slug": "crusader-kings-ii",
+      "Game": "Crusader Kings II",
+      "Aliases": [
+        "Crusader Kings II",
+        "crusader-kings-ii"
+      ]
+    },
+    {
+      "AppId": 204360,
+      "Slug": "castle-crashers",
+      "Game": "Castle Crashers",
+      "Aliases": [
+        "Castle Crashers",
+        "castle-crashers"
+      ]
+    },
+    {
+      "AppId": 205990,
+      "Slug": "warlock-2-the-exiled",
+      "Game": "Warlock 2: the Exiled",
+      "Aliases": [
+        "Warlock 2: the Exiled",
+        "warlock-2-the-exiled",
+        "warlock 2 the exiled"
+      ]
+    },
+    {
+      "AppId": 206420,
+      "Slug": "saints-row-iv",
+      "Game": "Saints Row IV",
+      "Aliases": [
+        "Saints Row IV",
+        "saints-row-iv"
+      ]
+    },
+    {
+      "AppId": 209670,
+      "Slug": "cortex-command",
+      "Game": "Cortex Command",
+      "Aliases": [
+        "Cortex Command",
+        "cortex-command"
+      ]
+    },
+    {
+      "AppId": 211820,
+      "Slug": "starbound",
+      "Game": "Starbound",
+      "Aliases": "Starbound"
+    },
+    {
+      "AppId": 214950,
+      "Slug": "total-war-rome-ii-emperor-edition",
+      "Game": "Total War: ROME II - Emperor Edition",
+      "Aliases": [
+        "Total War: ROME II - Emperor Edition",
+        "total-war-rome-ii-emperor-edition",
+        "total war rome ii emperor edition"
+      ]
+    },
+    {
+      "AppId": 218680,
+      "Slug": "scribblenauts-unlimited",
+      "Game": "Scribblenauts Unlimited",
+      "Aliases": [
+        "Scribblenauts Unlimited",
+        "scribblenauts-unlimited"
+      ]
+    },
+    {
+      "AppId": 219640,
+      "Slug": "chivalry-medieval-warfare",
+      "Game": "Chivalry: Medieval Warfare",
+      "Aliases": [
+        "Chivalry: Medieval Warfare",
+        "chivalry-medieval-warfare",
+        "chivalry medieval warfare"
+      ]
+    },
+    {
+      "AppId": 219740,
+      "Slug": "dont-starve",
+      "Game": "Don't Starve",
+      "Aliases": [
+        "Don't Starve",
+        "dont-starve",
+        "dont starve"
+      ]
+    },
+    {
+      "AppId": 220200,
+      "Slug": "kerbal-space-program",
+      "Game": "Kerbal Space Program",
+      "Aliases": [
+        "Kerbal Space Program",
+        "kerbal-space-program"
+      ]
+    },
+    {
+      "AppId": 221100,
+      "Slug": "dayz",
+      "Game": "DayZ",
+      "Aliases": "DayZ"
+    },
+    {
+      "AppId": 221380,
+      "Slug": "age-of-empires-ii-hd-edition",
+      "Game": "Age of Empires II: HD Edition",
+      "Aliases": [
+        "Age of Empires II: HD Edition",
+        "age-of-empires-ii-hd-edition",
+        "age of empires ii hd edition"
+      ]
+    },
+    {
+      "AppId": 222880,
+      "Slug": "insurgency",
+      "Game": "Insurgency",
+      "Aliases": "Insurgency"
+    },
+    {
+      "AppId": 223470,
+      "Slug": "postal-2",
+      "Game": "POSTAL 2",
+      "Aliases": [
+        "POSTAL 2",
+        "postal-2"
+      ]
+    },
+    {
+      "AppId": 223830,
+      "Slug": "xenonauts",
+      "Game": "Xenonauts",
+      "Aliases": "Xenonauts"
+    },
+    {
+      "AppId": 225420,
+      "Slug": "cities-in-motion-2",
+      "Game": "Cities in Motion 2",
+      "Aliases": [
+        "Cities in Motion 2",
+        "cities-in-motion-2"
+      ]
+    },
+    {
+      "AppId": 226840,
+      "Slug": "age-of-wonders-iii",
+      "Game": "Age of Wonders III",
+      "Aliases": [
+        "Age of Wonders III",
+        "age-of-wonders-iii"
+      ]
+    },
+    {
+      "AppId": 226860,
+      "Slug": "galactic-civilizations-iii",
+      "Game": "Galactic Civilizations III",
+      "Aliases": [
+        "Galactic Civilizations III",
+        "galactic-civilizations-iii"
+      ]
+    },
+    {
+      "AppId": 227300,
+      "Slug": "euro-truck-simulator-2",
+      "Game": "Euro Truck Simulator 2",
+      "Aliases": [
+        "Euro Truck Simulator 2",
+        "euro-truck-simulator-2"
+      ]
+    },
+    {
+      "AppId": 228200,
+      "Slug": "company-of-heroes",
+      "Game": "Company of Heroes",
+      "Aliases": [
+        "Company of Heroes",
+        "company-of-heroes"
+      ]
+    },
+    {
+      "AppId": 230290,
+      "Slug": "universe-sandbox",
+      "Game": "Universe Sandbox",
+      "Aliases": [
+        "Universe Sandbox",
+        "universe-sandbox"
+      ]
+    },
+    {
+      "AppId": 231430,
+      "Slug": "company-of-heroes-2",
+      "Game": "Company of Heroes 2",
+      "Aliases": [
+        "Company of Heroes 2",
+        "company-of-heroes-2"
+      ]
+    },
+    {
+      "AppId": 233450,
+      "Slug": "prison-architect",
+      "Game": "Prison Architect",
+      "Aliases": [
+        "Prison Architect",
+        "prison-architect"
+      ]
+    },
+    {
+      "AppId": 233860,
+      "Slug": "kenshi",
+      "Game": "Kenshi",
+      "Aliases": "Kenshi"
+    },
+    {
+      "AppId": 233980,
+      "Slug": "unepic",
+      "Game": "Unepic",
+      "Aliases": "Unepic"
+    },
+    {
+      "AppId": 234190,
+      "Slug": "receiver",
+      "Game": "Receiver",
+      "Aliases": "Receiver"
+    },
+    {
+      "AppId": 236850,
+      "Slug": "europa-universalis-iv",
+      "Game": "Europa Universalis IV",
+      "Aliases": [
+        "Europa Universalis IV",
+        "europa-universalis-iv"
+      ]
+    },
+    {
+      "AppId": 239820,
+      "Slug": "game-dev-tycoon",
+      "Game": "Game Dev Tycoon",
+      "Aliases": [
+        "Game Dev Tycoon",
+        "game-dev-tycoon"
+      ]
+    },
+    {
+      "AppId": 243970,
+      "Slug": "invisible-inc",
+      "Game": "Invisible, Inc.",
+      "Aliases": [
+        "Invisible, Inc.",
+        "invisible-inc",
+        "invisible inc"
+      ]
+    },
+    {
+      "AppId": 244160,
+      "Slug": "homeworld-remastered-collection",
+      "Game": "Homeworld Remastered Collection",
+      "Aliases": [
+        "Homeworld Remastered Collection",
+        "homeworld-remastered-collection"
+      ]
+    },
+    {
+      "AppId": 244450,
+      "Slug": "men-of-war-assault-squad-2",
+      "Game": "Men of War: Assault Squad 2",
+      "Aliases": [
+        "Men of War: Assault Squad 2",
+        "men-of-war-assault-squad-2",
+        "men of war assault squad 2"
+      ]
+    },
+    {
+      "AppId": 245470,
+      "Slug": "democracy-3",
+      "Game": "Democracy 3",
+      "Aliases": [
+        "Democracy 3",
+        "democracy-3"
+      ]
+    },
+    {
+      "AppId": 245620,
+      "Slug": "tropico-5",
+      "Game": "Tropico 5",
+      "Aliases": [
+        "Tropico 5",
+        "tropico-5"
+      ]
+    },
+    {
+      "AppId": 246620,
+      "Slug": "plague-inc-evolved",
+      "Game": "Plague Inc: Evolved",
+      "Aliases": [
+        "Plague Inc: Evolved",
+        "plague-inc-evolved",
+        "plague inc evolved"
+      ]
+    },
+    {
+      "AppId": 247080,
+      "Slug": "crypt-of-the-necrodancer",
+      "Game": "Crypt of the NecroDancer",
+      "Aliases": [
+        "Crypt of the NecroDancer",
+        "crypt-of-the-necrodancer"
+      ]
+    },
+    {
+      "AppId": 248390,
+      "Slug": "craft-the-world",
+      "Game": "Craft The World",
+      "Aliases": [
+        "Craft The World",
+        "craft-the-world"
+      ]
+    },
+    {
+      "AppId": 248610,
+      "Slug": "door-kickers",
+      "Game": "Door Kickers",
+      "Aliases": [
+        "Door Kickers",
+        "door-kickers"
+      ]
+    },
+    {
+      "AppId": 249870,
+      "Slug": "scribblenauts-unmasked",
+      "Game": "Scribblenauts Unmasked",
+      "Aliases": [
+        "Scribblenauts Unmasked",
+        "scribblenauts-unmasked"
+      ]
+    },
+    {
+      "AppId": 250900,
+      "Slug": "the-binding-of-isaac-rebirth",
+      "Game": "The Binding of Isaac: Rebirth",
+      "Aliases": [
+        "The Binding of Isaac: Rebirth",
+        "the-binding-of-isaac-rebirth",
+        "the binding of isaac rebirth"
+      ]
+    },
+    {
+      "AppId": 253230,
+      "Slug": "a-hat-in-time",
+      "Game": "A Hat in Time",
+      "Aliases": [
+        "A Hat in Time",
+        "a-hat-in-time"
+      ]
+    },
+    {
+      "AppId": 253250,
+      "Slug": "stonehearth",
+      "Game": "Stonehearth",
+      "Aliases": "Stonehearth"
+    },
+    {
+      "AppId": 254200,
+      "Slug": "fortresscraft-evolved",
+      "Game": "FortressCraft Evolved",
+      "Aliases": [
+        "FortressCraft Evolved",
+        "fortresscraft-evolved"
+      ]
+    },
+    {
+      "AppId": 257170,
+      "Slug": "rebuild-3-gangs-of-deadsville",
+      "Game": "Rebuild 3: Gangs of Deadsville",
+      "Aliases": [
+        "Rebuild 3: Gangs of Deadsville",
+        "rebuild-3-gangs-of-deadsville",
+        "rebuild 3 gangs of deadsville"
+      ]
+    },
+    {
+      "AppId": 259680,
+      "Slug": "tales-of-majeyal",
+      "Game": "Tales of Maj'Eyal",
+      "Aliases": [
+        "Tales of Maj'Eyal",
+        "tales-of-majeyal",
+        "tales of majeyal"
+      ]
+    },
+    {
+      "AppId": 261550,
+      "Slug": "mount-blade-ii-bannerlord",
+      "Game": "Mount & Blade II: Bannerlord",
+      "Aliases": [
+        "Mount & Blade II: Bannerlord",
+        "mount-blade-ii-bannerlord",
+        "mount blade ii bannerlord"
+      ]
+    },
+    {
+      "AppId": 262060,
+      "Slug": "darkest-dungeon",
+      "Game": "Darkest Dungeon",
+      "Aliases": [
+        "Darkest Dungeon",
+        "darkest-dungeon"
+      ]
+    },
+    {
+      "AppId": 263280,
+      "Slug": "spintires",
+      "Game": "Spintires®",
+      "Aliases": [
+        "Spintires®",
+        "Spintires"
+      ]
+    },
+    {
+      "AppId": 263760,
+      "Slug": "turbo-dismount",
+      "Game": "Turbo Dismount",
+      "Aliases": [
+        "Turbo Dismount",
+        "turbo-dismount"
+      ]
+    },
+    {
+      "AppId": 265930,
+      "Slug": "goat-simulator",
+      "Game": "Goat Simulator",
+      "Aliases": [
+        "Goat Simulator",
+        "goat-simulator"
+      ]
+    },
+    {
+      "AppId": 266840,
+      "Slug": "age-of-mythology-extended-edition",
+      "Game": "Age of Mythology: Extended Edition",
+      "Aliases": [
+        "Age of Mythology: Extended Edition",
+        "age-of-mythology-extended-edition",
+        "age of mythology extended edition"
+      ]
+    },
+    {
+      "AppId": 268500,
+      "Slug": "xcom-2",
+      "Game": "XCOM 2",
+      "Aliases": [
+        "XCOM 2",
+        "xcom-2"
+      ]
+    },
+    {
+      "AppId": 268650,
+      "Slug": "from-the-depths",
+      "Game": "From The Depths",
+      "Aliases": [
+        "From The Depths",
+        "from-the-depths"
+      ]
+    },
+    {
+      "AppId": 270150,
+      "Slug": "running-with-rifles",
+      "Game": "RUNNING WITH RIFLES",
+      "Aliases": [
+        "RUNNING WITH RIFLES",
+        "running-with-rifles"
+      ]
+    },
+    {
+      "AppId": 270880,
+      "Slug": "american-truck-simulator",
+      "Game": "American Truck Simulator",
+      "Aliases": [
+        "American Truck Simulator",
+        "american-truck-simulator"
+      ]
+    },
+    {
+      "AppId": 274170,
+      "Slug": "hotline-miami-2-wrong-number",
+      "Game": "Hotline Miami 2: Wrong Number",
+      "Aliases": [
+        "Hotline Miami 2: Wrong Number",
+        "hotline-miami-2-wrong-number",
+        "hotline miami 2 wrong number"
+      ]
+    },
+    {
+      "AppId": 274920,
+      "Slug": "facerig",
+      "Game": "FaceRig",
+      "Aliases": "FaceRig"
+    },
+    {
+      "AppId": 282070,
+      "Slug": "this-war-of-mine",
+      "Game": "This War of Mine",
+      "Aliases": [
+        "This War of Mine",
+        "this-war-of-mine"
+      ]
+    },
+    {
+      "AppId": 285190,
+      "Slug": "warhammer-40000-dawn-of-war-iii",
+      "Game": "Warhammer 40,000: Dawn of War III",
+      "Aliases": [
+        "Warhammer 40,000: Dawn of War III",
+        "warhammer-40000-dawn-of-war-iii",
+        "warhammer 40000 dawn of war iii"
+      ]
+    },
+    {
+      "AppId": 285920,
+      "Slug": "terratech",
+      "Game": "TerraTech",
+      "Aliases": "TerraTech"
+    },
+    {
+      "AppId": 286160,
+      "Slug": "tabletop-simulator",
+      "Game": "Tabletop Simulator",
+      "Aliases": [
+        "Tabletop Simulator",
+        "tabletop-simulator"
+      ]
+    },
+    {
+      "AppId": 287450,
+      "Slug": "rise-of-nations-extended-edition",
+      "Game": "Rise of Nations: Extended Edition",
+      "Aliases": [
+        "Rise of Nations: Extended Edition",
+        "rise-of-nations-extended-edition",
+        "rise of nations extended edition"
+      ]
+    },
+    {
+      "AppId": 289070,
+      "Slug": "sid-meiers-civilization-vi",
+      "Game": "Sid Meier's Civilization VI",
+      "Aliases": [
+        "Sid Meier's Civilization VI",
+        "sid-meiers-civilization-vi",
+        "sid meiers civilization vi"
+      ]
+    },
+    {
+      "AppId": 289130,
+      "Slug": "endless-legend",
+      "Game": "Endless Legend",
+      "Aliases": [
+        "Endless Legend",
+        "endless-legend"
+      ]
+    },
+    {
+      "AppId": 294100,
+      "Slug": "rimworld",
+      "Game": "RimWorld",
+      "Aliases": "RimWorld"
+    },
+    {
+      "AppId": 298050,
+      "Slug": "master-of-orion",
+      "Game": "Master of Orion",
+      "Aliases": [
+        "Master of Orion",
+        "master-of-orion"
+      ]
+    },
+    {
+      "AppId": 301320,
+      "Slug": "nolimits-2-roller-coaster-simulation",
+      "Game": "NoLimits 2 Roller Coaster Simulation",
+      "Aliases": [
+        "NoLimits 2 Roller Coaster Simulation",
+        "nolimits-2-roller-coaster-simulation"
+      ]
+    },
+    {
+      "AppId": 302670,
+      "Slug": "call-to-arms",
+      "Game": "Call to Arms",
+      "Aliases": [
+        "Call to Arms",
+        "call-to-arms"
+      ]
+    },
+    {
+      "AppId": 304930,
+      "Slug": "unturned",
+      "Game": "Unturned",
+      "Aliases": "Unturned"
+    },
+    {
+      "AppId": 311210,
+      "Slug": "call-of-duty-black-ops-iii",
+      "Game": "Call of Duty: Black Ops III",
+      "Aliases": [
+        "Call of Duty: Black Ops III",
+        "call-of-duty-black-ops-iii",
+        "call of duty black ops iii"
+      ]
+    },
+    {
+      "AppId": 311260,
+      "Slug": "the-guild-3",
+      "Game": "The Guild 3",
+      "Aliases": [
+        "The Guild 3",
+        "the-guild-3"
+      ]
+    },
+    {
+      "AppId": 312520,
+      "Slug": "rain-world",
+      "Game": "Rain World",
+      "Aliases": [
+        "Rain World",
+        "rain-world"
+      ]
+    },
+    {
+      "AppId": 312530,
+      "Slug": "duck-game",
+      "Game": "Duck Game",
+      "Aliases": [
+        "Duck Game",
+        "duck-game"
+      ]
+    },
+    {
+      "AppId": 314980,
+      "Slug": "supreme-ruler-ultimate",
+      "Game": "Supreme Ruler Ultimate",
+      "Aliases": [
+        "Supreme Ruler Ultimate",
+        "supreme-ruler-ultimate"
+      ]
+    },
+    {
+      "AppId": 322330,
+      "Slug": "dont-starve-together",
+      "Game": "Don't Starve Together",
+      "Aliases": [
+        "Don't Starve Together",
+        "dont-starve-together",
+        "dont starve together"
+      ]
+    },
+    {
+      "AppId": 323850,
+      "Slug": "move-or-die",
+      "Game": "Move or Die",
+      "Aliases": [
+        "Move or Die",
+        "move-or-die"
+      ]
+    },
+    {
+      "AppId": 325610,
+      "Slug": "total-war-attila",
+      "Game": "Total War: ATTILA",
+      "Aliases": [
+        "Total War: ATTILA",
+        "total-war-attila",
+        "total war attila"
+      ]
+    },
+    {
+      "AppId": 333640,
+      "Slug": "caves-of-qud",
+      "Game": "Caves of Qud",
+      "Aliases": [
+        "Caves of Qud",
+        "caves-of-qud"
+      ]
+    },
+    {
+      "AppId": 337320,
+      "Slug": "paint-the-town-red",
+      "Game": "Paint the Town Red",
+      "Aliases": [
+        "Paint the Town Red",
+        "paint-the-town-red"
+      ]
+    },
+    {
+      "AppId": 341800,
+      "Slug": "keep-talking-and-nobody-explodes",
+      "Game": "Keep Talking and Nobody Explodes",
+      "Aliases": [
+        "Keep Talking and Nobody Explodes",
+        "keep-talking-and-nobody-explodes"
+      ]
+    },
+    {
+      "AppId": 341940,
+      "Slug": "hatred",
+      "Game": "Hatred",
+      "Aliases": "Hatred"
+    },
+    {
+      "AppId": 342310,
+      "Slug": "riot-civil-unrest",
+      "Game": "RIOT - Civil Unrest",
+      "Aliases": [
+        "RIOT - Civil Unrest",
+        "riot-civil-unrest",
+        "riot civil unrest"
+      ]
+    },
+    {
+      "AppId": 342560,
+      "Slug": "airships-conquer-the-skies",
+      "Game": "Airships: Conquer the Skies",
+      "Aliases": [
+        "Airships: Conquer the Skies",
+        "airships-conquer-the-skies",
+        "airships conquer the skies"
+      ]
+    },
+    {
+      "AppId": 346010,
+      "Slug": "besiege",
+      "Game": "Besiege",
+      "Aliases": "Besiege"
+    },
+    {
+      "AppId": 346110,
+      "Slug": "ark-survival-evolved",
+      "Game": "ARK: Survival Evolved",
+      "Aliases": [
+        "ARK: Survival Evolved",
+        "ark-survival-evolved",
+        "ark survival evolved"
+      ]
+    },
+    {
+      "AppId": 357310,
+      "Slug": "oriental-empires",
+      "Game": "Oriental Empires",
+      "Aliases": [
+        "Oriental Empires",
+        "oriental-empires"
+      ]
+    },
+    {
+      "AppId": 362620,
+      "Slug": "software-inc",
+      "Game": "Software Inc.",
+      "Aliases": [
+        "Software Inc.",
+        "software-inc",
+        "software inc"
+      ]
+    },
+    {
+      "AppId": 362890,
+      "Slug": "black-mesa",
+      "Game": "Black Mesa",
+      "Aliases": [
+        "Black Mesa",
+        "black-mesa"
+      ]
+    },
+    {
+      "AppId": 364360,
+      "Slug": "total-war-warhammer",
+      "Game": "Total War: WARHAMMER",
+      "Aliases": [
+        "Total War: WARHAMMER",
+        "total-war-warhammer",
+        "total war warhammer"
+      ]
+    },
+    {
+      "AppId": 365450,
+      "Slug": "hacknet",
+      "Game": "Hacknet",
+      "Aliases": "Hacknet"
+    },
+    {
+      "AppId": 367670,
+      "Slug": "controller-companion",
+      "Game": "Controller Companion",
+      "Aliases": [
+        "Controller Companion",
+        "controller-companion"
+      ]
+    },
+    {
+      "AppId": 377900,
+      "Slug": "empire-tv-tycoon",
+      "Game": "Empire TV Tycoon",
+      "Aliases": [
+        "Empire TV Tycoon",
+        "empire-tv-tycoon"
+      ]
+    },
+    {
+      "AppId": 381020,
+      "Slug": "sky-rogue",
+      "Game": "Sky Rogue",
+      "Aliases": [
+        "Sky Rogue",
+        "sky-rogue"
+      ]
+    },
+    {
+      "AppId": 383120,
+      "Slug": "empyrion-galactic-survival",
+      "Game": "Empyrion - Galactic Survival",
+      "Aliases": [
+        "Empyrion - Galactic Survival",
+        "empyrion-galactic-survival",
+        "empyrion galactic survival"
+      ]
+    },
+    {
+      "AppId": 383980,
+      "Slug": "rivals-of-aether",
+      "Game": "Rivals of Aether",
+      "Aliases": [
+        "Rivals of Aether",
+        "rivals-of-aether"
+      ]
+    },
+    {
+      "AppId": 387990,
+      "Slug": "scrap-mechanic",
+      "Game": "Scrap Mechanic",
+      "Aliases": [
+        "Scrap Mechanic",
+        "scrap-mechanic"
+      ]
+    },
+    {
+      "AppId": 392080,
+      "Slug": "wayward-terran-frontier-zero-falls",
+      "Game": "Wayward Terran Frontier: Zero Falls",
+      "Aliases": [
+        "Wayward Terran Frontier: Zero Falls",
+        "wayward-terran-frontier-zero-falls",
+        "wayward terran frontier zero falls"
+      ]
+    },
+    {
+      "AppId": 392110,
+      "Slug": "endless-space-2",
+      "Game": "Endless Space 2",
+      "Aliases": [
+        "Endless Space 2",
+        "endless-space-2"
+      ]
+    },
+    {
+      "AppId": 392160,
+      "Slug": "x4-foundations",
+      "Game": "X4: Foundations",
+      "Aliases": [
+        "X4: Foundations",
+        "x4-foundations",
+        "x4 foundations"
+      ]
+    },
+    {
+      "AppId": 393380,
+      "Slug": "squad",
+      "Game": "Squad",
+      "Aliases": "Squad"
+    },
+    {
+      "AppId": 394690,
+      "Slug": "tower-unite",
+      "Game": "Tower Unite",
+      "Aliases": [
+        "Tower Unite",
+        "tower-unite"
+      ]
+    },
+    {
+      "AppId": 397550,
+      "Slug": "deus-ex-revision",
+      "Game": "Deus Ex: Revision",
+      "Aliases": [
+        "Deus Ex: Revision",
+        "deus-ex-revision",
+        "deus ex revision"
+      ]
+    },
+    {
+      "AppId": 397950,
+      "Slug": "clustertruck",
+      "Game": "Clustertruck",
+      "Aliases": "Clustertruck"
+    },
+    {
+      "AppId": 400750,
+      "Slug": "call-to-arms-gates-of-hell-ostfront",
+      "Game": "Call to Arms - Gates of Hell: Ostfront",
+      "Aliases": [
+        "Call to Arms - Gates of Hell: Ostfront",
+        "call-to-arms-gates-of-hell-ostfront",
+        "call to arms gates of hell ostfront"
+      ]
+    },
+    {
+      "AppId": 403190,
+      "Slug": "planetbase",
+      "Game": "Planetbase",
+      "Aliases": "Planetbase"
+    },
+    {
+      "AppId": 410900,
+      "Slug": "forts",
+      "Game": "Forts",
+      "Aliases": "Forts"
+    },
+    {
+      "AppId": 415200,
+      "Slug": "motorsport-manager",
+      "Game": "Motorsport Manager",
+      "Aliases": [
+        "Motorsport Manager",
+        "motorsport-manager"
+      ]
+    },
+    {
+      "AppId": 431960,
+      "Slug": "wallpaper-engine",
+      "Game": "Wallpaper Engine",
+      "Aliases": [
+        "Wallpaper Engine",
+        "wallpaper-engine"
+      ]
+    },
+    {
+      "AppId": 435150,
+      "Slug": "divinity-original-sin-2",
+      "Game": "Divinity: Original Sin 2",
+      "Aliases": [
+        "Divinity: Original Sin 2",
+        "divinity-original-sin-2",
+        "divinity original sin 2"
+      ]
+    },
+    {
+      "AppId": 440310,
+      "Slug": "project-arrhythmia",
+      "Game": "Project Arrhythmia",
+      "Aliases": [
+        "Project Arrhythmia",
+        "project-arrhythmia"
+      ]
+    },
+    {
+      "AppId": 440900,
+      "Slug": "conan-exiles",
+      "Game": "Conan Exiles",
+      "Aliases": [
+        "Conan Exiles",
+        "conan-exiles"
+      ]
+    },
+    {
+      "AppId": 445190,
+      "Slug": "expeditions-viking",
+      "Game": "Expeditions: Viking",
+      "Aliases": [
+        "Expeditions: Viking",
+        "expeditions-viking",
+        "expeditions viking"
+      ]
+    },
+    {
+      "AppId": 445220,
+      "Slug": "avorion",
+      "Game": "Avorion",
+      "Aliases": "Avorion"
+    },
+    {
+      "AppId": 446800,
+      "Slug": "transport-fever",
+      "Game": "Transport Fever",
+      "Aliases": [
+        "Transport Fever",
+        "transport-fever"
+      ]
+    },
+    {
+      "AppId": 453090,
+      "Slug": "parkitect",
+      "Game": "Parkitect",
+      "Aliases": "Parkitect"
+    },
+    {
+      "AppId": 457140,
+      "Slug": "oxygen-not-included",
+      "Game": "Oxygen Not Included",
+      "Aliases": [
+        "Oxygen Not Included",
+        "oxygen-not-included"
+      ]
+    },
+    {
+      "AppId": 464920,
+      "Slug": "surviving-mars",
+      "Game": "Surviving Mars",
+      "Aliases": [
+        "Surviving Mars",
+        "surviving-mars"
+      ]
+    },
+    {
+      "AppId": 466560,
+      "Slug": "northgard",
+      "Game": "Northgard",
+      "Aliases": "Northgard"
+    },
+    {
+      "AppId": 475150,
+      "Slug": "titan-quest-anniversary-edition",
+      "Game": "Titan Quest Anniversary Edition",
+      "Aliases": [
+        "Titan Quest Anniversary Edition",
+        "titan-quest-anniversary-edition"
+      ]
+    },
+    {
+      "AppId": 477160,
+      "Slug": "human-fall-flat",
+      "Game": "Human: Fall Flat",
+      "Aliases": [
+        "Human: Fall Flat",
+        "human-fall-flat",
+        "human fall flat"
+      ]
+    },
+    {
+      "AppId": 485980,
+      "Slug": "syrian-warfare",
+      "Game": "Syrian Warfare",
+      "Aliases": [
+        "Syrian Warfare",
+        "syrian-warfare"
+      ]
+    },
+    {
+      "AppId": 488860,
+      "Slug": "madness-project-nexus",
+      "Game": "MADNESS: Project Nexus",
+      "Aliases": [
+        "MADNESS: Project Nexus",
+        "madness-project-nexus",
+        "madness project nexus"
+      ]
+    },
+    {
+      "AppId": 489630,
+      "Slug": "warhammer-40000-gladius-relics-of-war",
+      "Game": "Warhammer 40,000: Gladius - Relics of War",
+      "Aliases": [
+        "Warhammer 40,000: Gladius - Relics of War",
+        "warhammer-40000-gladius-relics-of-war",
+        "warhammer 40000 gladius relics of war"
+      ]
+    },
+    {
+      "AppId": 491540,
+      "Slug": "the-bus",
+      "Game": "The Bus",
+      "Aliases": [
+        "The Bus",
+        "the-bus"
+      ]
+    },
+    {
+      "AppId": 493340,
+      "Slug": "planet-coaster",
+      "Game": "Planet Coaster",
+      "Aliases": [
+        "Planet Coaster",
+        "planet-coaster"
+      ]
+    },
+    {
+      "AppId": 494840,
+      "Slug": "uboat",
+      "Game": "UBOAT",
+      "Aliases": "UBOAT"
+    },
+    {
+      "AppId": 496460,
+      "Slug": "life-is-feudal-forest-village",
+      "Game": "Life is Feudal: Forest Village",
+      "Aliases": [
+        "Life is Feudal: Forest Village",
+        "life-is-feudal-forest-village",
+        "life is feudal forest village"
+      ]
+    },
+    {
+      "AppId": 503560,
+      "Slug": "911-operator",
+      "Game": "911 Operator",
+      "Aliases": [
+        "911 Operator",
+        "911-operator"
+      ]
+    },
+    {
+      "AppId": 503940,
+      "Slug": "railway-empire",
+      "Game": "Railway Empire",
+      "Aliases": [
+        "Railway Empire",
+        "railway-empire"
+      ]
+    },
+    {
+      "AppId": 512900,
+      "Slug": "streets-of-rogue",
+      "Game": "Streets of Rogue",
+      "Aliases": [
+        "Streets of Rogue",
+        "streets-of-rogue"
+      ]
+    },
+    {
+      "AppId": 521890,
+      "Slug": "hello-neighbor",
+      "Game": "Hello Neighbor",
+      "Aliases": [
+        "Hello Neighbor",
+        "hello-neighbor"
+      ]
+    },
+    {
+      "AppId": 529340,
+      "Slug": "victoria-3",
+      "Game": "Victoria 3",
+      "Aliases": [
+        "Victoria 3",
+        "victoria-3"
+      ]
+    },
+    {
+      "AppId": 530890,
+      "Slug": "haydee",
+      "Game": "Haydee",
+      "Aliases": "Haydee"
+    },
+    {
+      "AppId": 541200,
+      "Slug": "get-to-the-orange-door",
+      "Game": "Get To The Orange Door",
+      "Aliases": [
+        "Get To The Orange Door",
+        "get-to-the-orange-door"
+      ]
+    },
+    {
+      "AppId": 544550,
+      "Slug": "stationeers",
+      "Game": "Stationeers",
+      "Aliases": "Stationeers"
+    },
+    {
+      "AppId": 546560,
+      "Slug": "half-life-alyx",
+      "Game": "Half-Life: Alyx",
+      "Aliases": [
+        "Half-Life: Alyx",
+        "half-life-alyx",
+        "half life alyx"
+      ]
+    },
+    {
+      "AppId": 552100,
+      "Slug": "brick-rigs",
+      "Game": "Brick Rigs",
+      "Aliases": [
+        "Brick Rigs",
+        "brick-rigs"
+      ]
+    },
+    {
+      "AppId": 552500,
+      "Slug": "warhammer-vermintide-2",
+      "Game": "Warhammer: Vermintide 2",
+      "Aliases": [
+        "Warhammer: Vermintide 2",
+        "warhammer-vermintide-2",
+        "warhammer vermintide 2"
+      ]
+    },
+    {
+      "AppId": 552620,
+      "Slug": "atom-rpg",
+      "Game": "ATOM RPG",
+      "Aliases": [
+        "ATOM RPG",
+        "atom-rpg"
+      ]
+    },
+    {
+      "AppId": 564310,
+      "Slug": "serious-sam-fusion-2017-beta",
+      "Game": "Serious Sam Fusion 2017 (beta)",
+      "Aliases": [
+        "Serious Sam Fusion 2017 (beta)",
+        "Serious Sam Fusion 2017",
+        "beta",
+        "serious-sam-fusion-2017-beta",
+        "serious sam fusion 2017 beta"
+      ]
+    },
+    {
+      "AppId": 569480,
+      "Slug": "kingdoms-and-castles",
+      "Game": "Kingdoms and Castles",
+      "Aliases": [
+        "Kingdoms and Castles",
+        "kingdoms-and-castles"
+      ]
+    },
+    {
+      "AppId": 571740,
+      "Slug": "golf-it",
+      "Game": "Golf It!",
+      "Aliases": [
+        "Golf It!",
+        "Golf It",
+        "golf-it"
+      ]
+    },
+    {
+      "AppId": 572410,
+      "Slug": "steel-division-normandy-44",
+      "Game": "Steel Division: Normandy 44",
+      "Aliases": [
+        "Steel Division: Normandy 44",
+        "steel-division-normandy-44",
+        "steel division normandy 44"
+      ]
+    },
+    {
+      "AppId": 573090,
+      "Slug": "stormworks-build-and-rescue",
+      "Game": "Stormworks: Build and Rescue",
+      "Aliases": [
+        "Stormworks: Build and Rescue",
+        "stormworks-build-and-rescue",
+        "stormworks build and rescue"
+      ]
+    },
+    {
+      "AppId": 585420,
+      "Slug": "trailmakers",
+      "Game": "Trailmakers",
+      "Aliases": "Trailmakers"
+    },
+    {
+      "AppId": 588650,
+      "Slug": "dead-cells",
+      "Game": "Dead Cells",
+      "Aliases": [
+        "Dead Cells",
+        "dead-cells"
+      ]
+    },
+    {
+      "AppId": 591460,
+      "Slug": "parkasaurus",
+      "Game": "Parkasaurus",
+      "Aliases": "Parkasaurus"
+    },
+    {
+      "AppId": 593600,
+      "Slug": "pixark",
+      "Game": "PixARK",
+      "Aliases": "PixARK"
+    },
+    {
+      "AppId": 594570,
+      "Slug": "total-war-warhammer-ii",
+      "Game": "Total War: WARHAMMER II",
+      "Aliases": [
+        "Total War: WARHAMMER II",
+        "total-war-warhammer-ii",
+        "total war warhammer ii"
+      ]
+    },
+    {
+      "AppId": 597180,
+      "Slug": "old-world",
+      "Game": "Old World",
+      "Aliases": [
+        "Old World",
+        "old-world"
+      ]
+    },
+    {
+      "AppId": 598330,
+      "Slug": "simairport",
+      "Game": "SimAirport",
+      "Aliases": "SimAirport"
+    },
+    {
+      "AppId": 598960,
+      "Slug": "mashinky",
+      "Game": "Mashinky",
+      "Aliases": "Mashinky"
+    },
+    {
+      "AppId": 600480,
+      "Slug": "megaquarium",
+      "Game": "Megaquarium",
+      "Aliases": "Megaquarium"
+    },
+    {
+      "AppId": 602320,
+      "Slug": "train-valley-2",
+      "Game": "Train Valley 2",
+      "Aliases": [
+        "Train Valley 2",
+        "train-valley-2"
+      ]
+    },
+    {
+      "AppId": 602960,
+      "Slug": "barotrauma",
+      "Game": "Barotrauma",
+      "Aliases": "Barotrauma"
+    },
+    {
+      "AppId": 603850,
+      "Slug": "age-of-history-ii",
+      "Game": "Age of History II",
+      "Aliases": [
+        "Age of History II",
+        "age-of-history-ii"
+      ]
+    },
+    {
+      "AppId": 604540,
+      "Slug": "empire-of-sin",
+      "Game": "Empire of Sin",
+      "Aliases": [
+        "Empire of Sin",
+        "empire-of-sin"
+      ]
+    },
+    {
+      "AppId": 606800,
+      "Slug": "startup-company",
+      "Game": "Startup Company",
+      "Aliases": [
+        "Startup Company",
+        "startup-company"
+      ]
+    },
+    {
+      "AppId": 613100,
+      "Slug": "house-flipper",
+      "Game": "House Flipper",
+      "Aliases": [
+        "House Flipper",
+        "house-flipper"
+      ]
+    },
+    {
+      "AppId": 616720,
+      "Slug": "live2dviewerex",
+      "Game": "Live2DViewerEX",
+      "Aliases": "Live2DViewerEX"
+    },
+    {
+      "AppId": 620590,
+      "Slug": "ancestors-legacy",
+      "Game": "Ancestors Legacy",
+      "Aliases": [
+        "Ancestors Legacy",
+        "ancestors-legacy"
+      ]
+    },
+    {
+      "AppId": 636480,
+      "Slug": "ravenfield",
+      "Game": "Ravenfield",
+      "Aliases": "Ravenfield"
+    },
+    {
+      "AppId": 637650,
+      "Slug": "final-fantasy-xv-windows-edition",
+      "Game": "FINAL FANTASY XV WINDOWS EDITION",
+      "Aliases": [
+        "FINAL FANTASY XV WINDOWS EDITION",
+        "final-fantasy-xv-windows-edition"
+      ]
+    },
+    {
+      "AppId": 644930,
+      "Slug": "they-are-billions",
+      "Game": "They Are Billions",
+      "Aliases": [
+        "They Are Billions",
+        "they-are-billions"
+      ]
+    },
+    {
+      "AppId": 645630,
+      "Slug": "car-mechanic-simulator-2018",
+      "Game": "Car Mechanic Simulator 2018",
+      "Aliases": [
+        "Car Mechanic Simulator 2018",
+        "car-mechanic-simulator-2018"
+      ]
+    },
+    {
+      "AppId": 646570,
+      "Slug": "slay-the-spire",
+      "Game": "Slay the Spire",
+      "Aliases": [
+        "Slay the Spire",
+        "slay-the-spire"
+      ]
+    },
+    {
+      "AppId": 647960,
+      "Slug": "rusted-warfare-rts",
+      "Game": "Rusted Warfare - RTS",
+      "Aliases": [
+        "Rusted Warfare - RTS",
+        "rusted-warfare-rts",
+        "rusted warfare rts"
+      ]
+    },
+    {
+      "AppId": 666150,
+      "Slug": "prehistoric-kingdom",
+      "Game": "Prehistoric Kingdom",
+      "Aliases": [
+        "Prehistoric Kingdom",
+        "prehistoric-kingdom"
+      ]
+    },
+    {
+      "AppId": 667970,
+      "Slug": "vtol-vr",
+      "Game": "VTOL VR",
+      "Aliases": [
+        "VTOL VR",
+        "vtol-vr"
+      ]
+    },
+    {
+      "AppId": 671440,
+      "Slug": "rise-of-industry",
+      "Game": "Rise of Industry",
+      "Aliases": [
+        "Rise of Industry",
+        "rise-of-industry"
+      ]
+    },
+    {
+      "AppId": 672630,
+      "Slug": "academia-school-simulator",
+      "Game": "Academia : School Simulator",
+      "Aliases": [
+        "Academia : School Simulator",
+        "academia-school-simulator",
+        "academia school simulator"
+      ]
+    },
+    {
+      "AppId": 673610,
+      "Slug": "airport-ceo",
+      "Game": "Airport CEO",
+      "Aliases": [
+        "Airport CEO",
+        "airport-ceo"
+      ]
+    },
+    {
+      "AppId": 674500,
+      "Slug": "total-tank-simulator",
+      "Game": "Total Tank Simulator",
+      "Aliases": [
+        "Total Tank Simulator",
+        "total-tank-simulator"
+      ]
+    },
+    {
+      "AppId": 675010,
+      "Slug": "mudrunner",
+      "Game": "MudRunner",
+      "Aliases": "MudRunner"
+    },
+    {
+      "AppId": 686200,
+      "Slug": "door-kickers-action-squad",
+      "Game": "Door Kickers: Action Squad",
+      "Aliases": [
+        "Door Kickers: Action Squad",
+        "door-kickers-action-squad",
+        "door kickers action squad"
+      ]
+    },
+    {
+      "AppId": 703080,
+      "Slug": "planet-zoo",
+      "Game": "Planet Zoo",
+      "Aliases": [
+        "Planet Zoo",
+        "planet-zoo"
+      ]
+    },
+    {
+      "AppId": 704450,
+      "Slug": "neverwinter-nights-enhanced-edition",
+      "Game": "Neverwinter Nights: Enhanced Edition",
+      "Aliases": [
+        "Neverwinter Nights: Enhanced Edition",
+        "neverwinter-nights-enhanced-edition",
+        "neverwinter nights enhanced edition"
+      ]
+    },
+    {
+      "AppId": 712100,
+      "Slug": "a-total-war-saga-thrones-of-britannia",
+      "Game": "A Total War Saga: Thrones of Britannia",
+      "Aliases": [
+        "A Total War Saga: Thrones of Britannia",
+        "a-total-war-saga-thrones-of-britannia",
+        "a total war saga thrones of britannia"
+      ]
+    },
+    {
+      "AppId": 718670,
+      "Slug": "cultist-simulator",
+      "Game": "Cultist Simulator",
+      "Aliases": [
+        "Cultist Simulator",
+        "cultist-simulator"
+      ]
+    },
+    {
+      "AppId": 718850,
+      "Slug": "age-of-wonders-planetfall",
+      "Game": "Age of Wonders: Planetfall",
+      "Aliases": [
+        "Age of Wonders: Planetfall",
+        "age-of-wonders-planetfall",
+        "age of wonders planetfall"
+      ]
+    },
+    {
+      "AppId": 726840,
+      "Slug": "city-game-studio",
+      "Game": "City Game Studio",
+      "Aliases": [
+        "City Game Studio",
+        "city-game-studio"
+      ]
+    },
+    {
+      "AppId": 727570,
+      "Slug": "after-the-collapse",
+      "Game": "After the Collapse",
+      "Aliases": [
+        "After the Collapse",
+        "after-the-collapse"
+      ]
+    },
+    {
+      "AppId": 732050,
+      "Slug": "voxel-tycoon",
+      "Game": "Voxel Tycoon",
+      "Aliases": [
+        "Voxel Tycoon",
+        "voxel-tycoon"
+      ]
+    },
+    {
+      "AppId": 736820,
+      "Slug": "knights-of-honor-ii-sovereign",
+      "Game": "Knights of Honor II: Sovereign",
+      "Aliases": [
+        "Knights of Honor II: Sovereign",
+        "knights-of-honor-ii-sovereign",
+        "knights of honor ii sovereign"
+      ]
+    },
+    {
+      "AppId": 747200,
+      "Slug": "keplerth",
+      "Game": "Keplerth",
+      "Aliases": "Keplerth"
+    },
+    {
+      "AppId": 750170,
+      "Slug": "diesel-railcar-simulator",
+      "Game": "Diesel Railcar Simulator",
+      "Aliases": [
+        "Diesel Railcar Simulator",
+        "diesel-railcar-simulator"
+      ]
+    },
+    {
+      "AppId": 751780,
+      "Slug": "forager",
+      "Game": "Forager",
+      "Aliases": "Forager"
+    },
+    {
+      "AppId": 754150,
+      "Slug": "rolling-line",
+      "Game": "Rolling Line",
+      "Aliases": [
+        "Rolling Line",
+        "rolling-line"
+      ]
+    },
+    {
+      "AppId": 758990,
+      "Slug": "ancient-warfare-3",
+      "Game": "Ancient Warfare 3",
+      "Aliases": [
+        "Ancient Warfare 3",
+        "ancient-warfare-3"
+      ]
+    },
+    {
+      "AppId": 763890,
+      "Slug": "wildermyth",
+      "Game": "Wildermyth",
+      "Aliases": "Wildermyth"
+    },
+    {
+      "AppId": 779340,
+      "Slug": "total-war-three-kingdoms",
+      "Game": "Total War: THREE KINGDOMS",
+      "Aliases": [
+        "Total War: THREE KINGDOMS",
+        "total-war-three-kingdoms",
+        "total war three kingdoms"
+      ]
+    },
+    {
+      "AppId": 780310,
+      "Slug": "the-riftbreaker",
+      "Game": "The Riftbreaker",
+      "Aliases": [
+        "The Riftbreaker",
+        "the-riftbreaker"
+      ]
+    },
+    {
+      "AppId": 784080,
+      "Slug": "mechwarrior-5-mercenaries",
+      "Game": "MechWarrior 5: Mercenaries",
+      "Aliases": [
+        "MechWarrior 5: Mercenaries",
+        "mechwarrior-5-mercenaries",
+        "mechwarrior 5 mercenaries"
+      ]
+    },
+    {
+      "AppId": 784150,
+      "Slug": "workers-resources-soviet-republic",
+      "Game": "Workers & Resources: Soviet Republic",
+      "Aliases": [
+        "Workers & Resources: Soviet Republic",
+        "workers-resources-soviet-republic",
+        "workers resources soviet republic"
+      ]
+    },
+    {
+      "AppId": 793460,
+      "Slug": "112-operator",
+      "Game": "112 Operator",
+      "Aliases": [
+        "112 Operator",
+        "112-operator"
+      ]
+    },
+    {
+      "AppId": 799600,
+      "Slug": "cosmoteer-starship-architect-commander",
+      "Game": "Cosmoteer: Starship Architect & Commander",
+      "Aliases": [
+        "Cosmoteer: Starship Architect & Commander",
+        "cosmoteer-starship-architect-commander",
+        "cosmoteer starship architect commander"
+      ]
+    },
+    {
+      "AppId": 803050,
+      "Slug": "per-aspera",
+      "Game": "Per Aspera",
+      "Aliases": [
+        "Per Aspera",
+        "per-aspera"
+      ]
+    },
+    {
+      "AppId": 812040,
+      "Slug": "shortest-trip-to-earth",
+      "Game": "Shortest Trip to Earth",
+      "Aliases": [
+        "Shortest Trip to Earth",
+        "shortest-trip-to-earth"
+      ]
+    },
+    {
+      "AppId": 821880,
+      "Slug": "idol-manager",
+      "Game": "Idol Manager",
+      "Aliases": [
+        "Idol Manager",
+        "idol-manager"
+      ]
+    },
+    {
+      "AppId": 838350,
+      "Slug": "%e5%a4%aa%e5%90%be%e7%bb%98%e5%8d%b7-the-scroll-of-taiwu",
+      "Game": "太吾绘卷 The Scroll Of Taiwu",
+      "Aliases": [
+        "太吾绘卷 The Scroll Of Taiwu",
+        "太吾绘卷",
+        "The Scroll Of Taiwu",
+        "%e5%a4%aa%e5%90%be%e7%bb%98%e5%8d%b7-the-scroll-of-taiwu",
+        "太吾绘卷-the-scroll-of-taiwu"
+      ]
+    },
+    {
+      "AppId": 839770,
+      "Slug": "phoenix-point",
+      "Game": "Phoenix Point",
+      "Aliases": [
+        "Phoenix Point",
+        "phoenix-point"
+      ]
+    },
+    {
+      "AppId": 842780,
+      "Slug": "navalart",
+      "Game": "NavalArt",
+      "Aliases": "NavalArt"
+    },
+    {
+      "AppId": 853770,
+      "Slug": "maximum-action",
+      "Game": "Maximum Action",
+      "Aliases": [
+        "Maximum Action",
+        "maximum-action"
+      ]
+    },
+    {
+      "AppId": 858810,
+      "Slug": "dawn-of-man",
+      "Game": "Dawn of Man",
+      "Aliases": [
+        "Dawn of Man",
+        "dawn-of-man"
+      ]
+    },
+    {
+      "AppId": 859570,
+      "Slug": "secret-neighbor",
+      "Game": "Secret Neighbor",
+      "Aliases": [
+        "Secret Neighbor",
+        "secret-neighbor"
+      ]
+    },
+    {
+      "AppId": 859580,
+      "Slug": "imperator-rome",
+      "Game": "Imperator: Rome",
+      "Aliases": [
+        "Imperator: Rome",
+        "imperator-rome",
+        "imperator rome"
+      ]
+    },
+    {
+      "AppId": 868360,
+      "Slug": "project-hospital",
+      "Game": "Project Hospital",
+      "Aliases": [
+        "Project Hospital",
+        "project-hospital"
+      ]
+    },
+    {
+      "AppId": 880940,
+      "Slug": "pummel-party",
+      "Game": "Pummel Party",
+      "Aliases": [
+        "Pummel Party",
+        "pummel-party"
+      ]
+    },
+    {
+      "AppId": 881100,
+      "Slug": "noita",
+      "Game": "Noita",
+      "Aliases": "Noita"
+    },
+    {
+      "AppId": 882100,
+      "Slug": "xcom-chimera-squad",
+      "Game": "XCOM: Chimera Squad",
+      "Aliases": [
+        "XCOM: Chimera Squad",
+        "xcom-chimera-squad",
+        "xcom chimera squad"
+      ]
+    },
+    {
+      "AppId": 885970,
+      "Slug": "total-war-rome-remastered",
+      "Game": "Total War: ROME REMASTERED",
+      "Aliases": [
+        "Total War: ROME REMASTERED",
+        "total-war-rome-remastered",
+        "total war rome remastered"
+      ]
+    },
+    {
+      "AppId": 887570,
+      "Slug": "nebulous-fleet-command",
+      "Game": "NEBULOUS: Fleet Command",
+      "Aliases": [
+        "NEBULOUS: Fleet Command",
+        "nebulous-fleet-command",
+        "nebulous fleet command"
+      ]
+    },
+    {
+      "AppId": 919640,
+      "Slug": "steel-division-2",
+      "Game": "Steel Division 2",
+      "Aliases": [
+        "Steel Division 2",
+        "steel-division-2"
+      ]
+    },
+    {
+      "AppId": 953490,
+      "Slug": "carrion",
+      "Game": "CARRION",
+      "Aliases": "CARRION"
+    },
+    {
+      "AppId": 955900,
+      "Slug": "amazing-cultivation-simulator",
+      "Game": "Amazing Cultivation Simulator",
+      "Aliases": [
+        "Amazing Cultivation Simulator",
+        "amazing-cultivation-simulator"
+      ]
+    },
+    {
+      "AppId": 960690,
+      "Slug": "one-step-from-eden",
+      "Game": "One Step From Eden",
+      "Aliases": [
+        "One Step From Eden",
+        "one-step-from-eden"
+      ]
+    },
+    {
+      "AppId": 975370,
+      "Slug": "dwarf-fortress",
+      "Game": "Dwarf Fortress",
+      "Aliases": [
+        "Dwarf Fortress",
+        "dwarf-fortress"
+      ]
+    },
+    {
+      "AppId": 976730,
+      "Slug": "halo-the-master-chief-collection",
+      "Game": "Halo: The Master Chief Collection",
+      "Aliases": [
+        "Halo: The Master Chief Collection",
+        "halo-the-master-chief-collection",
+        "halo the master chief collection"
+      ]
+    },
+    {
+      "AppId": 977720,
+      "Slug": "starpoint-gemini-3",
+      "Game": "Starpoint Gemini 3",
+      "Aliases": [
+        "Starpoint Gemini 3",
+        "starpoint-gemini-3"
+      ]
+    },
+    {
+      "AppId": 977950,
+      "Slug": "a-dance-of-fire-and-ice",
+      "Game": "A Dance of Fire and Ice",
+      "Aliases": [
+        "A Dance of Fire and Ice",
+        "a-dance-of-fire-and-ice"
+      ]
+    },
+    {
+      "AppId": 978520,
+      "Slug": "legend-of-keepers",
+      "Game": "Legend of Keepers",
+      "Aliases": [
+        "Legend of Keepers",
+        "legend-of-keepers"
+      ]
+    },
+    {
+      "AppId": 992300,
+      "Slug": "%e5%97%9c%e8%a1%80%e5%8d%b0-bloody-spell",
+      "Game": "嗜血印 Bloody Spell",
+      "Aliases": [
+        "嗜血印 Bloody Spell",
+        "嗜血印",
+        "Bloody Spell",
+        "%e5%97%9c%e8%a1%80%e5%8d%b0-bloody-spell",
+        "嗜血印-bloody-spell"
+      ]
+    },
+    {
+      "AppId": 997010,
+      "Slug": "police-simulator-patrol-officers",
+      "Game": "Police Simulator: Patrol Officers",
+      "Aliases": [
+        "Police Simulator: Patrol Officers",
+        "police-simulator-patrol-officers",
+        "police simulator patrol officers"
+      ]
+    },
+    {
+      "AppId": 1012110,
+      "Slug": "military-conflict-vietnam",
+      "Game": "Military Conflict: Vietnam",
+      "Aliases": [
+        "Military Conflict: Vietnam",
+        "military-conflict-vietnam",
+        "military conflict vietnam"
+      ]
+    },
+    {
+      "AppId": 1028310,
+      "Slug": "book-of-hours",
+      "Game": "Book of Hours",
+      "Aliases": [
+        "Book of Hours",
+        "book-of-hours"
+      ]
+    },
+    {
+      "AppId": 1044720,
+      "Slug": "farthest-frontier",
+      "Game": "Farthest Frontier",
+      "Aliases": [
+        "Farthest Frontier",
+        "farthest-frontier"
+      ]
+    },
+    {
+      "AppId": 1058770,
+      "Slug": "%e6%88%91%e6%9d%a5%e8%87%aa%e6%b1%9f%e6%b9%96",
+      "Game": "我来自江湖",
+      "Aliases": [
+        "我来自江湖",
+        "%e6%88%91%e6%9d%a5%e8%87%aa%e6%b1%9f%e6%b9%96"
+      ]
+    },
+    {
+      "AppId": 1062090,
+      "Slug": "timberborn",
+      "Game": "Timberborn",
+      "Aliases": "Timberborn"
+    },
+    {
+      "AppId": 1066780,
+      "Slug": "transport-fever-2",
+      "Game": "Transport Fever 2",
+      "Aliases": [
+        "Transport Fever 2",
+        "transport-fever-2"
+      ]
+    },
+    {
+      "AppId": 1078920,
+      "Slug": "main-assembly",
+      "Game": "Main Assembly",
+      "Aliases": [
+        "Main Assembly",
+        "main-assembly"
+      ]
+    },
+    {
+      "AppId": 1084160,
+      "Slug": "jagged-alliance-3",
+      "Game": "Jagged Alliance 3",
+      "Aliases": [
+        "Jagged Alliance 3",
+        "jagged-alliance-3"
+      ]
+    },
+    {
+      "AppId": 1088790,
+      "Slug": "rebel-inc-escalation",
+      "Game": "Rebel Inc: Escalation",
+      "Aliases": [
+        "Rebel Inc: Escalation",
+        "rebel-inc-escalation",
+        "rebel inc escalation"
+      ]
+    },
+    {
+      "AppId": 1089840,
+      "Slug": "armored-brigade",
+      "Game": "Armored Brigade",
+      "Aliases": [
+        "Armored Brigade",
+        "armored-brigade"
+      ]
+    },
+    {
+      "AppId": 1094520,
+      "Slug": "sands-of-salzaar",
+      "Game": "Sands of Salzaar",
+      "Aliases": [
+        "Sands of Salzaar",
+        "sands-of-salzaar"
+      ]
+    },
+    {
+      "AppId": 1096530,
+      "Slug": "solasta-crown-of-the-magister",
+      "Game": "Solasta: Crown of the Magister",
+      "Aliases": [
+        "Solasta: Crown of the Magister",
+        "solasta-crown-of-the-magister",
+        "solasta crown of the magister"
+      ]
+    },
+    {
+      "AppId": 1099410,
+      "Slug": "a-total-war-saga-troy",
+      "Game": "A Total War Saga: TROY",
+      "Aliases": [
+        "A Total War Saga: TROY",
+        "a-total-war-saga-troy",
+        "a total war saga troy"
+      ]
+    },
+    {
+      "AppId": 1118200,
+      "Slug": "people-playground",
+      "Game": "People Playground",
+      "Aliases": [
+        "People Playground",
+        "people-playground"
+      ]
+    },
+    {
+      "AppId": 1124180,
+      "Slug": "rail-route",
+      "Game": "Rail Route",
+      "Aliases": [
+        "Rail Route",
+        "rail-route"
+      ]
+    },
+    {
+      "AppId": 1124300,
+      "Slug": "humankind",
+      "Game": "HUMANKIND™",
+      "Aliases": [
+        "HUMANKIND™",
+        "HUMANKIND"
+      ]
+    },
+    {
+      "AppId": 1127400,
+      "Slug": "mindustry",
+      "Game": "Mindustry",
+      "Aliases": "Mindustry"
+    },
+    {
+      "AppId": 1128860,
+      "Slug": "men-of-war-ii",
+      "Game": "Men of War II",
+      "Aliases": [
+        "Men of War II",
+        "men-of-war-ii"
+      ]
+    },
+    {
+      "AppId": 1134710,
+      "Slug": "nimby-rails",
+      "Game": "NIMBY Rails",
+      "Aliases": [
+        "NIMBY Rails",
+        "nimby-rails"
+      ]
+    },
+    {
+      "AppId": 1142710,
+      "Slug": "total-war-warhammer-iii",
+      "Game": "Total War: WARHAMMER III",
+      "Aliases": [
+        "Total War: WARHAMMER III",
+        "total-war-warhammer-iii",
+        "total war warhammer iii"
+      ]
+    },
+    {
+      "AppId": 1158310,
+      "Slug": "crusader-kings-iii",
+      "Game": "Crusader Kings III",
+      "Aliases": [
+        "Crusader Kings III",
+        "crusader-kings-iii"
+      ]
+    },
+    {
+      "AppId": 1162750,
+      "Slug": "songs-of-syx",
+      "Game": "Songs of Syx",
+      "Aliases": [
+        "Songs of Syx",
+        "songs-of-syx"
+      ]
+    },
+    {
+      "AppId": 1167630,
+      "Slug": "teardown",
+      "Game": "Teardown",
+      "Aliases": "Teardown"
+    },
+    {
+      "AppId": 1169040,
+      "Slug": "necesse",
+      "Game": "Necesse",
+      "Aliases": "Necesse"
+    },
+    {
+      "AppId": 1176470,
+      "Slug": "terra-invicta",
+      "Game": "Terra Invicta",
+      "Aliases": [
+        "Terra Invicta",
+        "terra-invicta"
+      ]
+    },
+    {
+      "AppId": 1178220,
+      "Slug": "icbm",
+      "Game": "ICBM",
+      "Aliases": "ICBM"
+    },
+    {
+      "AppId": 1188930,
+      "Slug": "chrono-ark",
+      "Game": "Chrono Ark",
+      "Aliases": [
+        "Chrono Ark",
+        "chrono-ark"
+      ]
+    },
+    {
+      "AppId": 1189490,
+      "Slug": "%e8%a7%85%e9%95%bf%e7%94%9f",
+      "Game": "觅长生",
+      "Aliases": [
+        "觅长生",
+        "%e8%a7%85%e9%95%bf%e7%94%9f"
+      ]
+    },
+    {
+      "AppId": 1190000,
+      "Slug": "car-mechanic-simulator-2021",
+      "Game": "Car Mechanic Simulator 2021",
+      "Aliases": [
+        "Car Mechanic Simulator 2021",
+        "car-mechanic-simulator-2021"
+      ]
+    },
+    {
+      "AppId": 1194590,
+      "Slug": "star-dynasties",
+      "Game": "Star Dynasties",
+      "Aliases": [
+        "Star Dynasties",
+        "star-dynasties"
+      ]
+    },
+    {
+      "AppId": 1202130,
+      "Slug": "starship-troopers-terran-command",
+      "Game": "Starship Troopers: Terran Command",
+      "Aliases": [
+        "Starship Troopers: Terran Command",
+        "starship-troopers-terran-command",
+        "starship troopers terran command"
+      ]
+    },
+    {
+      "AppId": 1206560,
+      "Slug": "worldbox-god-simulator",
+      "Game": "WorldBox - God Simulator",
+      "Aliases": [
+        "WorldBox - God Simulator",
+        "worldbox-god-simulator",
+        "worldbox god simulator"
+      ]
+    },
+    {
+      "AppId": 1213210,
+      "Slug": "command-conquer-remastered-collection",
+      "Game": "Command & Conquer™ Remastered Collection",
+      "Aliases": [
+        "Command & Conquer™ Remastered Collection",
+        "Command & Conquer",
+        "Remastered Collection",
+        "command-conquer-remastered-collection",
+        "command conquer remastered collection"
+      ]
+    },
+    {
+      "AppId": 1215390,
+      "Slug": "animal-revolt-battle-simulator",
+      "Game": "Animal Revolt Battle Simulator",
+      "Aliases": [
+        "Animal Revolt Battle Simulator",
+        "animal-revolt-battle-simulator"
+      ]
+    },
+    {
+      "AppId": 1216230,
+      "Slug": "project-heartbeat",
+      "Game": "Project Heartbeat",
+      "Aliases": [
+        "Project Heartbeat",
+        "project-heartbeat"
+      ]
+    },
+    {
+      "AppId": 1224290,
+      "Slug": "horizons-gate",
+      "Game": "Horizon's Gate",
+      "Aliases": [
+        "Horizon's Gate",
+        "horizons-gate",
+        "horizons gate"
+      ]
+    },
+    {
+      "AppId": 1239080,
+      "Slug": "door-kickers-2",
+      "Game": "Door Kickers 2",
+      "Aliases": [
+        "Door Kickers 2",
+        "door-kickers-2"
+      ]
+    },
+    {
+      "AppId": 1240630,
+      "Slug": "hex-of-steel",
+      "Game": "Hex of Steel",
+      "Aliases": [
+        "Hex of Steel",
+        "hex-of-steel"
+      ]
+    },
+    {
+      "AppId": 1256670,
+      "Slug": "library-of-ruina",
+      "Game": "Library Of Ruina",
+      "Aliases": [
+        "Library Of Ruina",
+        "library-of-ruina"
+      ]
+    },
+    {
+      "AppId": 1264280,
+      "Slug": "slipways",
+      "Game": "Slipways",
+      "Aliases": "Slipways"
+    },
+    {
+      "AppId": 1268590,
+      "Slug": "millennia",
+      "Game": "Millennia",
+      "Aliases": "Millennia"
+    },
+    {
+      "AppId": 1281930,
+      "Slug": "tmodloader",
+      "Game": "tModLoader",
+      "Aliases": "tModLoader"
+    },
+    {
+      "AppId": 1285230,
+      "Slug": "ultimate-racing-2d-2",
+      "Game": "Ultimate Racing 2D 2",
+      "Aliases": [
+        "Ultimate Racing 2D 2",
+        "ultimate-racing-2d-2"
+      ]
+    },
+    {
+      "AppId": 1286220,
+      "Slug": "sea-power",
+      "Game": "Sea Power",
+      "Aliases": [
+        "Sea Power",
+        "sea-power"
+      ]
+    },
+    {
+      "AppId": 1301010,
+      "Slug": "world-racing-2",
+      "Game": "World Racing 2",
+      "Aliases": [
+        "World Racing 2",
+        "world-racing-2"
+      ]
+    },
+    {
+      "AppId": 1324130,
+      "Slug": "stranded-alien-dawn",
+      "Game": "Stranded: Alien Dawn",
+      "Aliases": [
+        "Stranded: Alien Dawn",
+        "stranded-alien-dawn",
+        "stranded alien dawn"
+      ]
+    },
+    {
+      "AppId": 1324780,
+      "Slug": "easy-red-2",
+      "Game": "Easy Red 2",
+      "Aliases": [
+        "Easy Red 2",
+        "easy-red-2"
+      ]
+    },
+    {
+      "AppId": 1331550,
+      "Slug": "big-ambitions",
+      "Game": "Big Ambitions",
+      "Aliases": [
+        "Big Ambitions",
+        "big-ambitions"
+      ]
+    },
+    {
+      "AppId": 1347550,
+      "Slug": "tiny-combat-arena",
+      "Game": "Tiny Combat Arena",
+      "Aliases": [
+        "Tiny Combat Arena",
+        "tiny-combat-arena"
+      ]
+    },
+    {
+      "AppId": 1357210,
+      "Slug": "galactic-civilizations-iv",
+      "Game": "Galactic Civilizations IV",
+      "Aliases": [
+        "Galactic Civilizations IV",
+        "galactic-civilizations-iv"
+      ]
+    },
+    {
+      "AppId": 1364210,
+      "Slug": "city-bus-manager",
+      "Game": "City Bus Manager",
+      "Aliases": [
+        "City Bus Manager",
+        "city-bus-manager"
+      ]
+    },
+    {
+      "AppId": 1380910,
+      "Slug": "stardeus",
+      "Game": "Stardeus",
+      "Aliases": "Stardeus"
+    },
+    {
+      "AppId": 1404850,
+      "Slug": "luck-be-a-landlord",
+      "Game": "Luck be a Landlord",
+      "Aliases": [
+        "Luck be a Landlord",
+        "luck-be-a-landlord"
+      ]
+    },
+    {
+      "AppId": 1410710,
+      "Slug": "democracy-4",
+      "Game": "Democracy 4",
+      "Aliases": [
+        "Democracy 4",
+        "democracy-4"
+      ]
+    },
+    {
+      "AppId": 1416260,
+      "Slug": "spellforce-3-versus-edition",
+      "Game": "SpellForce 3: Versus Edition",
+      "Aliases": [
+        "SpellForce 3: Versus Edition",
+        "spellforce-3-versus-edition",
+        "spellforce 3 versus edition"
+      ]
+    },
+    {
+      "AppId": 1420350,
+      "Slug": "fraymakers",
+      "Game": "Fraymakers",
+      "Aliases": "Fraymakers"
+    },
+    {
+      "AppId": 1435790,
+      "Slug": "escape-simulator",
+      "Game": "Escape Simulator",
+      "Aliases": [
+        "Escape Simulator",
+        "escape-simulator"
+      ]
+    },
+    {
+      "AppId": 1444650,
+      "Slug": "haydee-2",
+      "Game": "Haydee 2",
+      "Aliases": [
+        "Haydee 2",
+        "haydee-2"
+      ]
+    },
+    {
+      "AppId": 1450900,
+      "Slug": "desynced",
+      "Game": "Desynced",
+      "Aliases": "Desynced"
+    },
+    {
+      "AppId": 1454400,
+      "Slug": "cookie-clicker",
+      "Game": "Cookie Clicker",
+      "Aliases": [
+        "Cookie Clicker",
+        "cookie-clicker"
+      ]
+    },
+    {
+      "AppId": 1468720,
+      "Slug": "ultimate-epic-battle-simulator-2",
+      "Game": "Ultimate Epic Battle Simulator 2",
+      "Aliases": [
+        "Ultimate Epic Battle Simulator 2",
+        "ultimate-epic-battle-simulator-2"
+      ]
+    },
+    {
+      "AppId": 1468810,
+      "Slug": "%e9%ac%bc%e8%b0%b7%e5%85%ab%e8%8d%92-tale-of-immortal",
+      "Game": "鬼谷八荒 Tale of Immortal",
+      "Aliases": [
+        "鬼谷八荒 Tale of Immortal",
+        "鬼谷八荒",
+        "Tale of Immortal",
+        "%e9%ac%bc%e8%b0%b7%e5%85%ab%e8%8d%92-tale-of-immortal",
+        "鬼谷八荒-tale-of-immortal"
+      ]
+    },
+    {
+      "AppId": 1489630,
+      "Slug": "carrier-command-2",
+      "Game": "Carrier Command 2",
+      "Aliases": [
+        "Carrier Command 2",
+        "carrier-command-2"
+      ]
+    },
+    {
+      "AppId": 1531540,
+      "Slug": "distant-worlds-2",
+      "Game": "Distant Worlds 2",
+      "Aliases": [
+        "Distant Worlds 2",
+        "distant-worlds-2"
+      ]
+    },
+    {
+      "AppId": 1560250,
+      "Slug": "rising-front",
+      "Game": "Rising Front",
+      "Aliases": [
+        "Rising Front",
+        "rising-front"
+      ]
+    },
+    {
+      "AppId": 1583720,
+      "Slug": "entropy-zero-2",
+      "Game": "Entropy : Zero 2",
+      "Aliases": [
+        "Entropy : Zero 2",
+        "entropy-zero-2",
+        "entropy zero 2"
+      ]
+    },
+    {
+      "AppId": 1599600,
+      "Slug": "plateup",
+      "Game": "PlateUp!",
+      "Aliases": [
+        "PlateUp!",
+        "PlateUp"
+      ]
+    },
+    {
+      "AppId": 1604270,
+      "Slug": "broken-arrow",
+      "Game": "Broken Arrow",
+      "Aliases": [
+        "Broken Arrow",
+        "broken-arrow"
+      ]
+    },
+    {
+      "AppId": 1606340,
+      "Slug": "conquest-of-elysium-5",
+      "Game": "Conquest of Elysium 5",
+      "Aliases": [
+        "Conquest of Elysium 5",
+        "conquest-of-elysium-5"
+      ]
+    },
+    {
+      "AppId": 1611600,
+      "Slug": "warno",
+      "Game": "WARNO",
+      "Aliases": "WARNO"
+    },
+    {
+      "AppId": 1612770,
+      "Slug": "sweet-transit",
+      "Game": "Sweet Transit",
+      "Aliases": [
+        "Sweet Transit",
+        "sweet-transit"
+      ]
+    },
+    {
+      "AppId": 1620340,
+      "Slug": "wrestling-empire",
+      "Game": "Wrestling Empire",
+      "Aliases": [
+        "Wrestling Empire",
+        "wrestling-empire"
+      ]
+    },
+    {
+      "AppId": 1651490,
+      "Slug": "tiny-life",
+      "Game": "Tiny Life",
+      "Aliases": [
+        "Tiny Life",
+        "tiny-life"
+      ]
+    },
+    {
+      "AppId": 1669000,
+      "Slug": "age-of-wonders-4",
+      "Game": "Age of Wonders 4",
+      "Aliases": [
+        "Age of Wonders 4",
+        "age-of-wonders-4"
+      ]
+    },
+    {
+      "AppId": 1677280,
+      "Slug": "company-of-heroes-3",
+      "Game": "Company of Heroes 3",
+      "Aliases": [
+        "Company of Heroes 3",
+        "company-of-heroes-3"
+      ]
+    },
+    {
+      "AppId": 1696440,
+      "Slug": "the-matchless-kungfu",
+      "Game": "The Matchless Kungfu",
+      "Aliases": [
+        "The Matchless Kungfu",
+        "the-matchless-kungfu"
+      ]
+    },
+    {
+      "AppId": 1739300,
+      "Slug": "smack-studio",
+      "Game": "Smack Studio",
+      "Aliases": [
+        "Smack Studio",
+        "smack-studio"
+      ]
+    },
+    {
+      "AppId": 1741400,
+      "Slug": "wander-hero",
+      "Game": "Wander Hero",
+      "Aliases": [
+        "Wander Hero",
+        "wander-hero"
+      ]
+    },
+    {
+      "AppId": 1741640,
+      "Slug": "shadows-of-forbidden-gods",
+      "Game": "Shadows of Forbidden Gods",
+      "Aliases": [
+        "Shadows of Forbidden Gods",
+        "shadows-of-forbidden-gods"
+      ]
+    },
+    {
+      "AppId": 1771300,
+      "Slug": "kingdom-come-deliverance-ii",
+      "Game": "Kingdom Come: Deliverance II",
+      "Aliases": [
+        "Kingdom Come: Deliverance II",
+        "kingdom-come-deliverance-ii",
+        "kingdom come deliverance ii"
+      ]
+    },
+    {
+      "AppId": 1812450,
+      "Slug": "bellwright",
+      "Game": "Bellwright",
+      "Aliases": "Bellwright"
+    },
+    {
+      "AppId": 1895350,
+      "Slug": "i-wani-hug-that-gator",
+      "Game": "I Wani Hug that Gator!",
+      "Aliases": [
+        "I Wani Hug that Gator!",
+        "I Wani Hug that Gator",
+        "i-wani-hug-that-gator"
+      ]
+    },
+    {
+      "AppId": 1937500,
+      "Slug": "lets-school",
+      "Game": "Let's School",
+      "Aliases": [
+        "Let's School",
+        "lets-school",
+        "lets school"
+      ]
+    },
+    {
+      "AppId": 1940340,
+      "Slug": "darkest-dungeon-ii",
+      "Game": "Darkest Dungeon® II",
+      "Aliases": [
+        "Darkest Dungeon® II",
+        "Darkest Dungeon",
+        "darkest-dungeon-ii",
+        "darkest dungeon ii"
+      ]
+    },
+    {
+      "AppId": 1942280,
+      "Slug": "brotato",
+      "Game": "Brotato",
+      "Aliases": "Brotato"
+    },
+    {
+      "AppId": 1944570,
+      "Slug": "boneraiser-minions",
+      "Game": "Boneraiser Minions",
+      "Aliases": [
+        "Boneraiser Minions",
+        "boneraiser-minions"
+      ]
+    },
+    {
+      "AppId": 1948280,
+      "Slug": "stacklands",
+      "Game": "Stacklands",
+      "Aliases": "Stacklands"
+    },
+    {
+      "AppId": 1948980,
+      "Slug": "heros-adventure-road-to-passion",
+      "Game": "Hero's Adventure: Road to Passion",
+      "Aliases": [
+        "Hero's Adventure: Road to Passion",
+        "heros-adventure-road-to-passion",
+        "heros adventure road to passion"
+      ]
+    },
+    {
+      "AppId": 1956800,
+      "Slug": "thriving-city-song",
+      "Game": "Thriving City: Song",
+      "Aliases": [
+        "Thriving City: Song",
+        "thriving-city-song",
+        "thriving city song"
+      ]
+    },
+    {
+      "AppId": 1970580,
+      "Slug": "backpack-hero",
+      "Game": "Backpack Hero",
+      "Aliases": [
+        "Backpack Hero",
+        "backpack-hero"
+      ]
+    },
+    {
+      "AppId": 1972440,
+      "Slug": "shotgun-king-the-final-checkmate",
+      "Game": "Shotgun King: The Final Checkmate",
+      "Aliases": [
+        "Shotgun King: The Final Checkmate",
+        "shotgun-king-the-final-checkmate",
+        "shotgun king the final checkmate"
+      ]
+    },
+    {
+      "AppId": 2108180,
+      "Slug": "swordhaven",
+      "Game": "SWORDHAVEN",
+      "Aliases": "SWORDHAVEN"
+    },
+    {
+      "AppId": 2135150,
+      "Slug": "elin",
+      "Game": "Elin",
+      "Aliases": "Elin"
+    },
+    {
+      "AppId": 2168680,
+      "Slug": "nuclear-option",
+      "Game": "Nuclear Option",
+      "Aliases": [
+        "Nuclear Option",
+        "nuclear-option"
+      ]
+    },
+    {
+      "AppId": 2186320,
+      "Slug": "ages-of-conflict-world-war-simulator",
+      "Game": "Ages of Conflict: World War Simulator",
+      "Aliases": [
+        "Ages of Conflict: World War Simulator",
+        "ages-of-conflict-world-war-simulator",
+        "ages of conflict world war simulator"
+      ]
+    },
+    {
+      "AppId": 2212330,
+      "Slug": "your-only-move-is-hustle",
+      "Game": "Your Only Move Is HUSTLE",
+      "Aliases": [
+        "Your Only Move Is HUSTLE",
+        "your-only-move-is-hustle"
+      ]
+    },
+    {
+      "AppId": 2230980,
+      "Slug": "caribbean-legend",
+      "Game": "Caribbean Legend",
+      "Aliases": [
+        "Caribbean Legend",
+        "caribbean-legend"
+      ]
+    },
+    {
+      "AppId": 2302820,
+      "Slug": "fas-fight-action-sandbox",
+      "Game": "FAS: Fight Action Sandbox",
+      "Aliases": [
+        "FAS: Fight Action Sandbox",
+        "fas-fight-action-sandbox",
+        "fas fight action sandbox"
+      ]
+    },
+    {
+      "AppId": 2361680,
+      "Slug": "path-of-kung-fu",
+      "Game": "Path of Kung Fu",
+      "Aliases": [
+        "Path of Kung Fu",
+        "path-of-kung-fu"
+      ]
+    },
+    {
+      "AppId": 2427410,
+      "Slug": "s-t-a-l-k-e-r-shadow-of-chornobyl-enhanced-edition",
+      "Game": "S.T.A.L.K.E.R.: Shadow of Chornobyl - Enhanced Edition",
+      "Aliases": [
+        "S.T.A.L.K.E.R.: Shadow of Chornobyl - Enhanced Edition",
+        "s-t-a-l-k-e-r-shadow-of-chornobyl-enhanced-edition",
+        "s t a l k e r shadow of chornobyl enhanced edition"
+      ]
+    },
+    {
+      "AppId": 2427420,
+      "Slug": "s-t-a-l-k-e-r-clear-sky-enhanced-edition",
+      "Game": "S.T.A.L.K.E.R.: Clear Sky - Enhanced Edition",
+      "Aliases": [
+        "S.T.A.L.K.E.R.: Clear Sky - Enhanced Edition",
+        "s-t-a-l-k-e-r-clear-sky-enhanced-edition",
+        "s t a l k e r clear sky enhanced edition"
+      ]
+    },
+    {
+      "AppId": 2427430,
+      "Slug": "s-t-a-l-k-e-r-call-of-prypiat-enhanced-edition",
+      "Game": "S.T.A.L.K.E.R.: Call of Prypiat - Enhanced Edition",
+      "Aliases": [
+        "S.T.A.L.K.E.R.: Call of Prypiat - Enhanced Edition",
+        "s-t-a-l-k-e-r-call-of-prypiat-enhanced-edition",
+        "s t a l k e r call of prypiat enhanced edition"
+      ]
+    },
+    {
+      "AppId": 2489330,
+      "Slug": "whiskerwood",
+      "Game": "Whiskerwood",
+      "Aliases": "Whiskerwood"
+    },
+    {
+      "AppId": 2511500,
+      "Slug": "dominions-6",
+      "Game": "Dominions 6",
+      "Aliases": [
+        "Dominions 6",
+        "dominions-6"
+      ]
+    },
+    {
+      "AppId": 2608270,
+      "Slug": "intravenous-2",
+      "Game": "Intravenous 2",
+      "Aliases": [
+        "Intravenous 2",
+        "intravenous-2"
+      ]
+    },
+    {
+      "AppId": 2646460,
+      "Slug": "soulmask",
+      "Game": "Soulmask",
+      "Aliases": "Soulmask"
+    },
+    {
+      "AppId": 2647680,
+      "Slug": "icbm-escalation",
+      "Game": "ICBM: Escalation",
+      "Aliases": [
+        "ICBM: Escalation",
+        "icbm-escalation",
+        "icbm escalation"
+      ]
+    },
+    {
+      "AppId": 2772750,
+      "Slug": "age-of-history-3",
+      "Game": "Age of History 3",
+      "Aliases": [
+        "Age of History 3",
+        "age-of-history-3"
+      ]
+    },
+    {
+      "AppId": 2824660,
+      "Slug": "old-school-rally",
+      "Game": "Old School Rally",
+      "Aliases": [
+        "Old School Rally",
+        "old-school-rally"
+      ]
+    },
+    {
+      "AppId": 2951630,
+      "Slug": "total-war-pharaoh-dynasties",
+      "Game": "Total War: PHARAOH DYNASTIES",
+      "Aliases": [
+        "Total War: PHARAOH DYNASTIES",
+        "total-war-pharaoh-dynasties",
+        "total war pharaoh dynasties"
+      ]
+    },
+    {
+      "AppId": 3018410,
+      "Slug": "vtol-vr-mod-loader",
+      "Game": "VTOL VR Mod Loader",
+      "Aliases": [
+        "VTOL VR Mod Loader",
+        "vtol-vr-mod-loader"
+      ]
+    },
+    {
+      "AppId": 3020510,
+      "Slug": "legend-of-heroes-three-kingdoms",
+      "Game": "Legend of Heroes: Three Kingdoms",
+      "Aliases": [
+        "Legend of Heroes: Three Kingdoms",
+        "legend-of-heroes-three-kingdoms",
+        "legend of heroes three kingdoms"
+      ]
+    },
+    {
+      "AppId": 3035500,
+      "Slug": "fantasy-map-simulator",
+      "Game": "Fantasy Map Simulator",
+      "Aliases": [
+        "Fantasy Map Simulator",
+        "fantasy-map-simulator"
+      ]
+    },
+    {
+      "AppId": 3167020,
+      "Slug": "escape-from-duckov",
+      "Game": "Escape From Duckov",
+      "Aliases": [
+        "Escape From Duckov",
+        "escape-from-duckov"
+      ]
+    },
+    {
+      "AppId": 3215050,
+      "Slug": "surviving-mars-relaunched",
+      "Game": "Surviving Mars: Relaunched",
+      "Aliases": [
+        "Surviving Mars: Relaunched",
+        "surviving-mars-relaunched",
+        "surviving mars relaunched"
+      ]
+    },
+    {
+      "AppId": 3450310,
+      "Slug": "europa-universalis-v",
+      "Game": "Europa Universalis V",
+      "Aliases": [
+        "Europa Universalis V",
+        "europa-universalis-v"
+      ]
+    },
+    {
+      "AppId": 3625270,
+      "Slug": "mateengine",
+      "Game": "MateEngine",
+      "Aliases": "MateEngine"
+    }
+  ]
+}
